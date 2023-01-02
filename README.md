@@ -7,6 +7,8 @@ Use the tab to switch between:
 - map view
 - timeline view
 
+A working version is published with shiny-server at http://petrolai.myddns.me/sample-apps/Appsilon/
+
 Multiple selections can be made using both vernacular and sciencific names.
 
 ## Sample Views
